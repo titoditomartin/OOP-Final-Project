@@ -7,15 +7,6 @@
 The Pong Game is a simple two-player arcade game where each player controls a paddle to hit a ball back and forth across the screen. The objective is to prevent the ball from passing through the player's goal and score points by making the ball pass through the opponent's goal.
 
 # Project Specification
-- Game Window: The game window should display the playing area, including the paddles, ball, and score.
-- Paddles: There should be two paddles, one for each player, which can be controlled using keyboard inputs.
-- Ball: The ball should move continuously and bounce off the walls and paddles when it collides with them.
-- Scoring: Players should earn points when the ball passes through the opponent's goal. The score should be displayed on the screen.
-- Game Over: The game should end when one player reaches a specified score or when the players choose to quit. The final score should be displayed, and players should have the option to restart the game.
-- Graphics: The game should have visually appealing graphics, including colored paddles, a moving ball, and a dynamic score display.
-
-Technical Requirements:
-
 - Programming Language: Java
 - User Interface: Swing/AWT or JavaFX for creating the game window and handling user input.
 - Game Logic: Implement the game mechanics, including ball movement, collision detection, scoring, and game over conditions.
