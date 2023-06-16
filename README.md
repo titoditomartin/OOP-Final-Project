@@ -60,3 +60,10 @@ Represents the score display on the screen.
 Inherits from the Rectangle class to define the position and dimensions of the score display area.
 Contains attributes for player 1 and player 2 scores.
 Implements the draw method to render the scores using a specific font and color.
+
+
+# Screenshots of the App
+![WhatsApp Image 2023-06-16 at 21 02 49](https://github.com/titoditomartin/OOP-Final-Project/assets/114073725/cc6a0600-d37f-4569-9014-85d15c0732f1)
+![WhatsApp Image 2023-06-16 at 20 59 04](https://github.com/titoditomartin/OOP-Final-Project/assets/114073725/38ff0bff-a115-4ef3-a27e-6e9de510d44e)
+![WhatsApp Image 2023-06-16 at 21 03 05](https://github.com/titoditomartin/OOP-Final-Project/assets/114073725/9839bcc3-7283-4948-b849-79d149b2336c)
+
