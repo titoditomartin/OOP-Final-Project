@@ -20,6 +20,7 @@ Pong is a classic arcade game where two players control paddles on opposite side
 For a short explanation, the game follows a basic game loop structure where the game state is updated, collisions are checked, and objects are rendered on the screen. The loop runs at approximately 60 frames per second, ensuring smooth animation. The paddles are controlled by player input through keyboard events, allowing them to move up and down. The ball moves in a random direction initially and bounces off the paddles and the top/bottom edges of the window. The score is incremented when the ball goes past the paddles, and new paddles and ball are created. The score is displayed on the screen, with player 1 on the left and player 2 on the right.
 
 For a more detailed information regarding the codes, 
+
 PongGame class:
 
 This serves as the entry point of the game. It creates an instance of the GameFrame class and sets it as the main frame for the game.
