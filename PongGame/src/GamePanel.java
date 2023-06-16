@@ -77,8 +77,6 @@ public class GamePanel extends JPanel implements Runnable {
         ball.draw(g);
         score.draw(g);
         Toolkit.getDefaultToolkit().sync(); // Synchronize the display
-
-        // (Note: This line was missing from the video but is important for smoother animation)
     }
 
     public void move() {
