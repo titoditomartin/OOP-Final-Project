@@ -75,3 +75,10 @@ Implements the draw method to render the scores using a specific font and color.
 ![WhatsApp Image 2023-06-16 at 20 59 04](https://github.com/titoditomartin/OOP-Final-Project/assets/114073725/38ff0bff-a115-4ef3-a27e-6e9de510d44e)
 ![WhatsApp Image 2023-06-16 at 21 03 05](https://github.com/titoditomartin/OOP-Final-Project/assets/114073725/9839bcc3-7283-4948-b849-79d149b2336c)
 
+# Video Demo
+
+
+https://github.com/titoditomartin/OOP-Final-Project/assets/114073725/89dd995b-f93d-4bdd-af54-dbd27f588cd7
+
+
+
